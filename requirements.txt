@@ -4,3 +4,4 @@ vidstream == 0.0.14
 six == 1.16.0
 pyAutoGUI == 0.9.53
 wheel == 0.37.0
+pyaudio == 0.2.11
